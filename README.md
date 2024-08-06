@@ -11,6 +11,9 @@ This project provides python script for converting HEIF files to JPG format.
 ### Clone the Repository
 ```
 git clone git@github.com:ysh1th/Heif2jpg_dockerized.git
+```
+
+```
 cd Heif2jpg_dockerized
 ```
 
